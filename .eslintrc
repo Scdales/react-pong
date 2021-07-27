@@ -7,8 +7,7 @@
   },
   "rules": {
     "semi": 2,
-    "quotes": [1, "single"],
-    "global-strict": false
+    "quotes": [1, "single"]
   },
   "globals": {
     "require": false,
